@@ -1,0 +1,53 @@
+======================================================================
+DAY 1: FUNDAMENTALS OF PROGRAMMING & BASIC CONSTRUCTS
+======================================================================
+
+Objective Accomplished: 
+Gained a solid understanding of the foundational building blocks of the 
+programming language and became comfortable implementing basic logic.
+
+----------------------------------------------------------------------
+1. DATA TYPES
+----------------------------------------------------------------------
+Learned how data is classified, stored, and manipulated in memory. 
+Understanding data types ensures efficient memory usage and prevents 
+type errors during execution.
+
+Key Types Covered:
+* Integer / Float: Used for numerical calculations (whole numbers vs. 
+  decimal values).
+* String: Used for handling textual data, characters, and sequences.
+* Boolean: Represents binary states—True or False—essential for 
+  decision-making logic.
+
+----------------------------------------------------------------------
+2. CONDITIONAL STATEMENTS
+----------------------------------------------------------------------
+Learned how to introduce decision-making capabilities into programs. 
+By evaluating specific conditions, the program can branch out and 
+execute different paths of code dynamically.
+
+Key Concepts Covered:
+* if statement: Executes a block of code only if a specific condition 
+  is met.
+* else / else-if (elif): Provides alternative execution paths if the 
+  initial condition evaluates to false.
+
+----------------------------------------------------------------------
+3. LOOPING CONSTRUCTS
+----------------------------------------------------------------------
+Learned how to automate repetitive tasks efficiently without duplicating 
+code, optimizing both code readability and performance.
+
+Key Loops Covered:
+* For Loop: Ideal for iterating over a sequence (like a range of numbers 
+  or a collection) a predetermined number of times.
+* While Loop: Ideal for repeating a block of code continuously as long 
+  as a specific condition remains true.
+
+======================================================================
+Summary of Progress:
+By the end of Day 1, I can successfully declare variables with appropriate 
+data types, control the flow of execution using conditional logic, and 
+write clean loops to handle repetitive operations.
+======================================================================
